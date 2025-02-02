@@ -1,4 +1,5 @@
 # **Architecture Guide**
+![Architecture Diagram](/assets/architecture-diagram.png)
 
 The system is built using the following key components:
 
