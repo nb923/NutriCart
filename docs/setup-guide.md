@@ -34,7 +34,7 @@ By default, the **hardware repo auto-connects to Cart 2**, but this can be chang
 - If self-hosting, ensure that REST API requests in the frontend are updated accordingly.  
 
 ## **5. Using the System**  
-1. Connect to Cart 2 in the Swift app (or change it if needed).  
+1. Connect to Cart 2 in the Swift app (or change it if needed - it can be between 1 - 10).  
 2. Input body stats manually or allow automatic calorie/macronutrient goal entry.  
 3. Scan grocery items with the webcam, and they will be added to the app.  
 4. When checkout is pressed, the cart is cleared, and the items are checked out.  
