@@ -8,7 +8,7 @@ While this technology can be adapted for hot food bars like those in Whole Foods
 This project consists of multiple repos:
 
 - **[Backend](https://github.com/nb923/NutriCart-Backend)**: FastAPI repo that communicates with MongoDB database and two clients.
-- **[Frontend](https://github.com/your-org/frontend-repo)**: Smart cart interface built using Swift.
+- **[Frontend](https://github.com/Vorajay2005/NutriCart-Frontend)**: Smart cart interface built using Swift.
 - **[Infra + DB](https://github.com/nb923/NutriCart-Terraform)**: Terraform and Python scripts to setup MongoDB Atlas.
 - **[Hardware Device](https://github.com/your-org/hardware-repo)**: Computer vision logic for detecting items in cart.
 
