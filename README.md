@@ -10,7 +10,7 @@ This project consists of multiple repos:
 - **[Backend](https://github.com/nb923/NutriCart-Backend)**: FastAPI repo that communicates with MongoDB database and two clients.
 - **[Frontend](https://github.com/Vorajay2005/NutriCart-Frontend)**: Smart cart interface built using Swift.
 - **[Infra + DB](https://github.com/nb923/NutriCart-Terraform)**: Terraform and Python scripts to setup MongoDB Atlas.
-- **[Hardware Device](https://github.com/your-org/hardware-repo)**: Computer vision logic for detecting items in cart.
+- **[Hardware Device](https://github.com/Kahan-2410/NutriCart-Hardware)**: Computer vision logic for detecting items in cart.
 
 ## Architecture  
 ![Architecture Diagram](./assets/architecture-diagram.png)
