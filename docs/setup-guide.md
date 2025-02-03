@@ -16,7 +16,7 @@ The hardware component requires:
 2. Position the webcam inside a **cardboard box** to create an optimal detection environment—ensure it doesn’t capture the floor or anything above it.  
 3. Run the object detection script in the hardware repo.  
 
-By default, the **hardware repo auto-connects to Cart 2**, but this can be changed in the settings.  
+By default, the **hardware repo auto-connects to Cart 4**, but this can be changed in the settings.  
 
 ## **3. Setting Up the Infrastructure (Terraform & Database)**  
 1. Navigate to the Terraform repository.  
