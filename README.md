@@ -5,7 +5,7 @@ NutriCart is a smart cart system that tracks not only prices but also macronutri
 
 While this technology can be adapted for hot food bars like those in Whole Foods, our current implementation focuses on enhancing the shopping cart experience.
 
-![NutriCart Demo](./assets/NutriCart-Demo.gif)
+<img src="./assets/NutriCart-Demo.gif" alt="NutriCart Demo" width="800"/>
 
 This project consists of multiple repos:
 
